@@ -1,0 +1,52 @@
+section{
+    display: flex;
+    background-image: url("../../assets/img/carousel-1.jpg");
+    height: 1080px;
+    background-position:center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    /* position: relative; */
+    
+}
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  .read {
+    background-color: #ff5a5f;
+    color: white;
+  }
+  
+  .free {
+    background-color: #56c7f4;
+    color: white;
+  }
+  .banner{
+    color: white;
+    margin-left: 200px;
+  }
+  .banner h4{
+    font-size: 30px;
+    padding: 0px;
+    margin: 0px;
+  }
+  .banner h1{
+    font-size: 60px;
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+  }
+  .banner h1 span{
+    font-size: 60px;
+    display: inline-block;
+    color: #f94548;
+  }
+  
+  .banner p{
+    font-size: 20px;
+  }
+ 
